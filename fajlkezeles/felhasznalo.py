@@ -1,0 +1,1 @@
+import random;mettol,meddig=[int(input("mettől? | ")),int(input("meddig? | "))];print(*[random.randint(mettol,meddig) for _ in range(int(input("hány szám? | ")))],file=open(f"fajlkezeles/{input("mi legyen a fájl neve? | ")}.txt","w"))
