@@ -1,0 +1,101 @@
+order_id,customer_id,customer_name,email,city,country,product_id,product_name,category,price,quantity,order_date,shipping_days,delivery_status
+1001,C001,John Smith,john.smith@email.com,New York,USA,P101,Wireless Mouse,Electronics,25.99,2,2025-01-01,3,Delivered
+1002,C002,Emma Johnson,emma.j@email.com,London,UK,P205,Ceramic Mug,Home,12.50,4,2025-01-02,5,Delivered
+1003,C003,Liam Brown,liam.b@email.com,Sydney,Australia,P333,Notebook,Stationery,5.75,10,2025-01-03,2,Delivered
+1004,C004,Olivia Davis,olivia.d@email.com,Toronto,Canada,P410,Desk Chair,Furniture,120.00,1,2025-01-04,7,Shipped
+1005,C005,Noah Wilson,noah.w@email.com,Berlin,Germany,P512,Water Bottle,Sports,18.20,3,2025-01-05,4,Delivered
+1006,C006,Ava Martinez,ava.m@email.com,Madrid,Spain,P101,Wireless Mouse,Electronics,25.99,1,2025-01-06,3,Delivered
+1007,C007,William Anderson,will.a@email.com,Chicago,USA,P890,Backpack,Accessories,45.00,2,2025-01-07,6,Cancelled
+1008,C008,Sophia Thomas,sophia.t@email.com,Paris,France,P205,Ceramic Mug,Home,12.50,6,2025-01-08,5,Delivered
+1009,C009,James Taylor,james.t@email.com,Dublin,Ireland,P720,Running Shoes,Sports,75.00,1,2025-01-09,4,Delivered
+1010,C010,Isabella Moore,isabella.m@email.com,Rome,Italy,P333,Notebook,Stationery,5.75,20,2025-01-10,3,Delivered
+1011,C011,Benjamin Jackson,ben.j@email.com,Los Angeles,USA,P410,Desk Chair,Furniture,120.00,1,2025-01-11,8,Shipped
+1012,C012,Mia White,mia.w@email.com,Vienna,Austria,P512,Water Bottle,Sports,18.20,5,2025-01-12,4,Delivered
+1013,C013,Lucas Harris,lucas.h@email.com,Amsterdam,Netherlands,P890,Backpack,Accessories,45.00,1,2025-01-13,6,Delivered
+1014,C014,Charlotte Martin,charlotte.m@email.com,Brussels,Belgium,P101,Wireless Mouse,Electronics,25.99,3,2025-01-14,3,Delivered
+1015,C015,Henry Thompson,henry.t@email.com,Prague,Czech Republic,P205,Ceramic Mug,Home,12.50,2,2025-01-15,5,Returned
+1016,C016,Amelia Garcia,amelia.g@email.com,Lisbon,Portugal,P720,Running Shoes,Sports,75.00,2,2025-01-16,4,Delivered
+1017,C017,Alexander Martinez,alex.m@email.com,Warsaw,Poland,P333,Notebook,Stationery,5.75,15,2025-01-17,3,Delivered
+1018,C018,Evelyn Robinson,evelyn.r@email.com,Budapest,Hungary,P410,Desk Chair,Furniture,120.00,2,2025-01-18,7,Processing
+1019,C019,Daniel Clark,daniel.c@email.com,Oslo,Norway,P512,Water Bottle,Sports,18.20,1,2025-01-19,5,Delivered
+1020,C020,Harper Rodriguez,harper.r@email.com,Stockholm,Sweden,P890,Backpack,Accessories,45.00,3,2025-01-20,6,Delivered
+1021,C021,Michael Lewis,michael.l@email.com,Copenhagen,Denmark,P101,Wireless Mouse,Electronics,25.99,2,2025-01-21,3,Delivered
+1022,C022,Abigail Lee,abigail.l@email.com,Helsinki,Finland,P205,Ceramic Mug,Home,12.50,4,2025-01-22,5,Delivered
+1023,C023,Ethan Walker,ethan.w@email.com,Zurich,Switzerland,P720,Running Shoes,Sports,75.00,1,2025-01-23,4,Shipped
+1024,C024,Emily Hall,emily.h@email.com,Athens,Greece,P333,Notebook,Stationery,5.75,12,2025-01-24,3,Delivered
+1025,C025,Jacob Allen,jacob.a@email.com,Istanbul,Turkey,P410,Desk Chair,Furniture,120.00,1,2025-01-25,8,Cancelled
+1026,C026,Logan Young,logan.y@email.com,Seoul,South Korea,P512,Water Bottle,Sports,18.20,2,2025-01-26,4,Delivered
+1027,C027,Grace King,grace.k@email.com,Tokyo,Japan,P101,Wireless Mouse,Electronics,25.99,1,2025-01-27,3,Delivered
+1028,C028,Chloe Scott,chloe.s@email.com,Beijing,China,P205,Ceramic Mug,Home,12.50,3,2025-01-28,6,Delivered
+1029,C029,David Green,david.g@email.com,Moscow,Russia,P720,Running Shoes,Sports,75.00,2,2025-01-29,5,Delivered
+1030,C030,Zoe Adams,zoe.a@email.com,Dubai,UAE,P333,Notebook,Stationery,5.75,8,2025-01-30,3,Delivered
+1031,C031,Matthew Baker,matt.b@email.com,Singapore,Singapore,P410,Desk Chair,Furniture,120.00,1,2025-01-31,7,Shipped
+1032,C032,Natalie Gonzalez,nat.g@email.com,Bangkok,Thailand,P512,Water Bottle,Sports,18.20,4,2025-02-01,4,Delivered
+1033,C033,Samuel Nelson,sam.n@email.com,Delhi,India,P890,Backpack,Accessories,45.00,2,2025-02-02,6,Delivered
+1034,C034,Victoria Carter,vic.c@email.com,Mexico City,Mexico,P101,Wireless Mouse,Electronics,25.99,3,2025-02-03,3,Delivered
+1035,C035,Andrew Mitchell,and.m@email.com,Sao Paulo,Brazil,P205,Ceramic Mug,Home,12.50,5,2025-02-04,5,Delivered
+1036,C036,Lucy Perez,lucy.p@email.com,Buenos Aires,Argentina,P720,Running Shoes,Sports,75.00,1,2025-02-05,4,Delivered
+1037,C037,Jack Roberts,jack.r@email.com,Cape Town,South Africa,P333,Notebook,Stationery,5.75,9,2025-02-06,3,Delivered
+1038,C038,Hannah Turner,han.t@email.com,Auckland,New Zealand,P410,Desk Chair,Furniture,120.00,2,2025-02-07,7,Processing
+1039,C039,Ryan Phillips,ryan.p@email.com,Honolulu,USA,P512,Water Bottle,Sports,18.20,2,2025-02-08,5,Delivered
+1040,C040,Lily Campbell,lily.c@email.com,Reykjavik,Iceland,P890,Backpack,Accessories,45.00,1,2025-02-09,6,Delivered
+1041,C041,Jason Parker,jason.p@email.com,Edinburgh,UK,P101,Wireless Mouse,Electronics,25.99,2,2025-02-10,3,Delivered
+1042,C042,Sarah Evans,sarah.e@email.com,Glasgow,UK,P205,Ceramic Mug,Home,12.50,3,2025-02-11,5,Delivered
+1043,C043,Kevin Edwards,kev.e@email.com,Cardiff,UK,P720,Running Shoes,Sports,75.00,1,2025-02-12,4,Delivered
+1044,C044,Megan Collins,meg.c@email.com,Leeds,UK,P333,Notebook,Stationery,5.75,11,2025-02-13,3,Delivered
+1045,C045,Brandon Stewart,brand.s@email.com,Manchester,UK,P410,Desk Chair,Furniture,120.00,1,2025-02-14,7,Delivered
+1046,C046,Ashley Sanchez,ash.s@email.com,Liverpool,UK,P512,Water Bottle,Sports,18.20,6,2025-02-15,4,Delivered
+1047,C047,Justin Morris,just.m@email.com,Birmingham,UK,P890,Backpack,Accessories,45.00,2,2025-02-16,6,Delivered
+1048,C048,Kayla Rogers,kay.r@email.com,Bristol,UK,P101,Wireless Mouse,Electronics,25.99,1,2025-02-17,3,Delivered
+1049,C049,Nathan Reed,nate.r@email.com,Sheffield,UK,P205,Ceramic Mug,Home,12.50,4,2025-02-18,5,Delivered
+1050,C050,Anna Cook,anna.c@email.com,Nottingham,UK,P720,Running Shoes,Sports,75.00,1,2025-02-19,4,Delivered
+1051,C051,More Name,more@email.com,City,Country,P333,Notebook,Stationery,5.75,5,2025-02-20,3,Delivered
+1052,C052,More Name2,more2@email.com,City,Country,P410,Desk Chair,Furniture,120.00,1,2025-02-21,7,Delivered
+1053,C053,More Name3,more3@email.com,City,Country,P512,Water Bottle,Sports,18.20,2,2025-02-22,4,Delivered
+1054,C054,More Name4,more4@email.com,City,Country,P890,Backpack,Accessories,45.00,3,2025-02-23,6,Delivered
+1055,C055,More Name5,more5@email.com,City,Country,P101,Wireless Mouse,Electronics,25.99,2,2025-02-24,3,Delivered
+1056,C056,More Name6,more6@email.com,City,Country,P205,Ceramic Mug,Home,12.50,1,2025-02-25,5,Delivered
+1057,C057,More Name7,more7@email.com,City,Country,P720,Running Shoes,Sports,75.00,2,2025-02-26,4,Delivered
+1058,C058,More Name8,more8@email.com,City,Country,P333,Notebook,Stationery,5.75,6,2025-02-27,3,Delivered
+1059,C059,More Name9,more9@email.com,City,Country,P410,Desk Chair,Furniture,120.00,1,2025-02-28,7,Delivered
+1060,C060,More Name10,more10@email.com,City,Country,P512,Water Bottle,Sports,18.20,2,2025-03-01,4,Delivered
+1061,C061,More Name11,more11@email.com,City,Country,P890,Backpack,Accessories,45.00,3,2025-03-02,6,Delivered
+1062,C062,More Name12,more12@email.com,City,Country,P101,Wireless Mouse,Electronics,25.99,1,2025-03-03,3,Delivered
+1063,C063,More Name13,more13@email.com,City,Country,P205,Ceramic Mug,Home,12.50,2,2025-03-04,5,Delivered
+1064,C064,More Name14,more14@email.com,City,Country,P720,Running Shoes,Sports,75.00,1,2025-03-05,4,Delivered
+1065,C065,More Name15,more15@email.com,City,Country,P333,Notebook,Stationery,5.75,8,2025-03-06,3,Delivered
+1066,C066,More Name16,more16@email.com,City,Country,P410,Desk Chair,Furniture,120.00,1,2025-03-07,7,Delivered
+1067,C067,More Name17,more17@email.com,City,Country,P512,Water Bottle,Sports,18.20,3,2025-03-08,4,Delivered
+1068,C068,More Name18,more18@email.com,City,Country,P890,Backpack,Accessories,45.00,2,2025-03-09,6,Delivered
+1069,C069,More Name19,more19@email.com,City,Country,P101,Wireless Mouse,Electronics,25.99,2,2025-03-10,3,Delivered
+1070,C070,More Name20,more20@email.com,City,Country,P205,Ceramic Mug,Home,12.50,4,2025-03-11,5,Delivered
+1071,C071,More Name21,more21@email.com,City,Country,P720,Running Shoes,Sports,75.00,2,2025-03-12,4,Delivered
+1072,C072,More Name22,more22@email.com,City,Country,P333,Notebook,Stationery,5.75,7,2025-03-13,3,Delivered
+1073,C073,More Name23,more23@email.com,City,Country,P410,Desk Chair,Furniture,120.00,1,2025-03-14,7,Delivered
+1074,C074,More Name24,more24@email.com,City,Country,P512,Water Bottle,Sports,18.20,2,2025-03-15,4,Delivered
+1075,C075,More Name25,more25@email.com,City,Country,P890,Backpack,Accessories,45.00,3,2025-03-16,6,Delivered
+1076,C076,More Name26,more26@email.com,City,Country,P101,Wireless Mouse,Electronics,25.99,1,2025-03-17,3,Delivered
+1077,C077,More Name27,more27@email.com,City,Country,P205,Ceramic Mug,Home,12.50,2,2025-03-18,5,Delivered
+1078,C078,More Name28,more28@email.com,City,Country,P720,Running Shoes,Sports,75.00,1,2025-03-19,4,Delivered
+1079,C079,More Name29,more29@email.com,City,Country,P333,Notebook,Stationery,5.75,9,2025-03-20,3,Delivered
+1080,C080,More Name30,more30@email.com,City,Country,P410,Desk Chair,Furniture,120.00,1,2025-03-21,7,Delivered
+1081,C081,More Name31,more31@email.com,City,Country,P512,Water Bottle,Sports,18.20,2,2025-03-22,4,Delivered
+1082,C082,More Name32,more32@email.com,City,Country,P890,Backpack,Accessories,45.00,3,2025-03-23,6,Delivered
+1083,C083,More Name33,more33@email.com,City,Country,P101,Wireless Mouse,Electronics,25.99,2,2025-03-24,3,Delivered
+1084,C084,More Name34,more34@email.com,City,Country,P205,Ceramic Mug,Home,12.50,4,2025-03-25,5,Delivered
+1085,C085,More Name35,more35@email.com,City,Country,P720,Running Shoes,Sports,75.00,1,2025-03-26,4,Delivered
+1086,C086,More Name36,more36@email.com,City,Country,P333,Notebook,Stationery,5.75,6,2025-03-27,3,Delivered
+1087,C087,More Name37,more37@email.com,City,Country,P410,Desk Chair,Furniture,120.00,1,2025-03-28,7,Delivered
+1088,C088,More Name38,more38@email.com,City,Country,P512,Water Bottle,Sports,18.20,2,2025-03-29,4,Delivered
+1089,C089,More Name39,more39@email.com,City,Country,P890,Backpack,Accessories,45.00,3,2025-03-30,6,Delivered
+1090,C090,More Name40,more40@email.com,City,Country,P101,Wireless Mouse,Electronics,25.99,1,2025-03-31,3,Delivered
+1091,C091,More Name41,more41@email.com,City,Country,P205,Ceramic Mug,Home,12.50,2,2025-04-01,5,Delivered
+1092,C092,More Name42,more42@email.com,City,Country,P720,Running Shoes,Sports,75.00,1,2025-04-02,4,Delivered
+1093,C093,More Name43,more43@email.com,City,Country,P333,Notebook,Stationery,5.75,8,2025-04-03,3,Delivered
+1094,C094,More Name44,more44@email.com,City,Country,P410,Desk Chair,Furniture,120.00,1,2025-04-04,7,Delivered
+1095,C095,More Name45,more45@email.com,City,Country,P512,Water Bottle,Sports,18.20,2,2025-04-05,4,Delivered
+1096,C096,More Name46,more46@email.com,City,Country,P890,Backpack,Accessories,45.00,3,2025-04-06,6,Delivered
+1097,C097,More Name47,more47@email.com,City,Country,P101,Wireless Mouse,Electronics,25.99,2,2025-04-07,3,Delivered
+1098,C098,More Name48,more48@email.com,City,Country,P205,Ceramic Mug,Home,12.50,4,2025-04-08,5,Delivered
+1099,C099,More Name49,more49@email.com,City,Country,P720,Running Shoes,Sports,75.00,1,2025-04-09,4,Delivered
+1100,C100,More Name50,more50@email.com,City,Country,P333,Notebook,Stationery,5.75,10,2025-04-10,3,Delivered
